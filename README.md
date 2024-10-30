@@ -46,6 +46,7 @@ Para executar o projeto, siga as instruções abaixo:
 
 6. **Interagir com o Menu**:
    - Siga as instruções exibidas no console para escolher e executar as questões.
+   - 0 para sair
 
 ## Questões Implementadas
 
